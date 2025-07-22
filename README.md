@@ -42,13 +42,13 @@ const dilshad = {
     "mobile": {
       "Flutter": "⭐⭐⭐⭐⭐",
       "Dart": "⭐⭐⭐⭐⭐",
-      "React Native": "⭐⭐⭐",
-      "Kotlin": "⭐⭐⭐",
+      "React Native": "⭐⭐",
+      "Kotlin": "⭐⭐",
       "Java": "⭐⭐"
     },
     "backend": {
-      "Node.js": "⭐⭐⭐",
-      "Spring Boot": "⭐⭐"
+      "Node.js": "⭐⭐",
+      "Spring Boot": "⭐"
     },
     "googleServices": {
       "firebase": [
