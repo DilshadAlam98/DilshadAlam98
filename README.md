@@ -36,18 +36,19 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 const dilshad = {
   "name": "Dilshad Alam",
   "pronouns": "He/Him",
-  "code": ["Flutter", "Dart", "JavaScript", "Android", "iOS"],
-  "askMeAbout": ["App Development", "UI/UX", "Tech Trends"],
+  "code": ["Flutter", "Flutter Flow", "Dart", "JavaScript", "TypeScript" ,"Android", "iOS"],
+  "askMeAbout": ["App Development", "Rest APIs", "Backend Database", "UI/UX", "Tech Trends"],
   "technologies": {
     "mobile": {
       "Flutter": "⭐⭐⭐⭐⭐",
+      "Flutter Flow": "⭐⭐⭐",
       "Dart": "⭐⭐⭐⭐⭐",
       "React Native": "⭐⭐",
       "Kotlin": "⭐⭐",
       "Java": "⭐⭐"
     },
     "backend": {
-      "Node.js": "⭐⭐",
+      "Node.js": "⭐⭐⭐⭐",
       "Spring Boot": "⭐"
     },
     "googleServices": {
@@ -63,13 +64,15 @@ const dilshad = {
       "googleMap": true
     },
     "thirdPartySDK": {
-      "paymentGateway": ["Stripe", "RazorPay", "PhonePe"],
+      "paymentGateway": ["Stripe", "RazorPay", "PhonePe", Atom NTT, EaseBuzz],
       "googleMap": true,
       "webSockets": true,
       "callingSDK": ["Agora", "ZegoCloud"]
     },
     "database": {
       "MongoDB": "⭐⭐⭐",
+      "MySQL":"⭐⭐⭐⭐",
+      "PosTGresSQL":"⭐⭐⭐⭐"
       "Firebase Storage": "⭐⭐⭐⭐⭐"
     },
     "generativeAI": ["GPT", "Vectorization"]
@@ -77,7 +80,10 @@ const dilshad = {
   "architecture": {
     "frontEnd": ["MVVM", "MVC", "Clean Architecture", "Repository Pattern"]
   },
-  "currentFocus": "Crafting exceptional cross-platform mobile experiences",
+  "currentFocus": [
+        "Crafting exceptional cross-platform mobile experiences",
+        "Creating  exception backend databse structure and Rest APIs"
+    ],
   "funFact": "I can debug faster with a coffee in hand!"
 };
 
@@ -172,7 +178,8 @@ Sunday                   2212 commits        ██████░░░░░�
 **I Mostly Code in Flutter, Dart**
 
 ```text
-Dart                     29 repos            ████░░░░░░░░░░░░░░░░░░░░░   80.05 % 
+Dart                     29 repos            ██████████░░░░░░░░░░░░░░░    80.05 %
+Node.Js                  12 repos            ██████░░░░░░░░░░░░░░░░░░░   80.05 % 
 React-Native             4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 Android                  2 repo              █░░░░░░░░░░░░░░░░░░░░░░░░  01.23 % 
 ```
