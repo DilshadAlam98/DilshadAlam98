@@ -1,13 +1,17 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Dilshad Alam! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer (Mobile Apps) at <a href="https://www.neosofttech.com/">NeoSoft Technology
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Dilshad%20Alam&fontSize=36&fontAlign=50&animation=fadeIn" alt="Dilshad Alam Banner">
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:ff4d94&height=80&section=header&text=Senior%20Software%20Engineer%20at%20Bacancy%20Technology&fontSize=22&fontColor=ffffff" alt="Senior Software Engineer at Bacancy Technology">
+</p>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff4d94,100:00c2ff&height=80&section=header&text=Formerly%20Software%20Engineer%20(Mobile%20Apps)%20at%20NeoSoft%20Technology&fontSize=20&fontColor=ffffff" alt="Formerly Software Engineer (Mobile Apps) at NeoSoft Technology">
+</p>
 
 [//]: # ([![Twitter Follow]&#40;https://img.shields.io/twitter/follow/misteranmol?label=Follow&#41;]&#40;https://twitter.com/intent/follow?screen_name=misteranmol&#41;)
-[![Linkedin: Dilshad](https://img.shields.io/badge/-Dilshad-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alam-dilshad/)
-![GitHub followers](https://img.shields.io/github/followers/DilshadAlam98?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://developer-dilshad.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dilshad%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alam-dilshad/)
+[![GitHub Followers](https://img.shields.io/github/followers/DilshadAlam98?label=Follow&style=for-the-badge&logo=github)](https://github.com/DilshadAlam98?tab=followers)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-dilshad.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=DilshadAlam98.DilshadAlam98)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
@@ -17,7 +21,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://github.com/DilshadAlam98" target="_blank"><img src="https://img.shields.io/badge/Schedule%20a%20chat-30%20min-blue?style=for-the-badge" alt="Schedule a chat"></a>
+<a href="https://calendly.com/rayeendilshan/30min" target="_blank"><img src="https://img.shields.io/badge/Book%20a%20Meeting-30%20min-0A66C2?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a Meeting"></a>
 
 [//]: # (👇 Hit in your console or terminal to connect with me.)
 
@@ -64,7 +68,7 @@ const dilshad = {
       "googleMap": true
     },
     "thirdPartySDK": {
-      "paymentGateway": ["Stripe", "RazorPay", "PhonePe", Atom NTT, EaseBuzz],
+      "paymentGateway": ["Stripe", "Razorpay", "PhonePe", "Atom NTT", "EaseBuzz"],
       "googleMap": true,
       "webSockets": true,
       "callingSDK": ["Agora", "ZegoCloud"]
@@ -75,10 +79,11 @@ const dilshad = {
       "PostgreSQL":"⭐⭐⭐⭐",
       "Firebase Storage": "⭐⭐⭐⭐⭐"
     },
-    "generativeAI": ["GPT", "Vectorization"]
+    "generativeAI": ["OpenAI GPT", "Google Gemini", "Anthropic Claude", "Llama", "LangChain", "RAG", "Embeddings", "Vector DB: Pinecone", "Vector DB: Weaviate", "Vector DB: Milvus"]
   },
   "architecture": {
-    "frontEnd": ["MVVM", "MVC", "Clean Architecture", "Repository Pattern"]
+    "frontEnd": ["MVVM", "MVC", "Clean Architecture", "Repository Pattern"],
+    "backEnd": ["Clean Architecture", "Hexagonal", "Monolith", "Microservices", "Event-Driven", "Serverless (Cloud Functions)", "RESTful APIs", "GraphQL", "CQRS"]
   },
   "currentFocus": [
         "Crafting exceptional cross-platform mobile experiences",
@@ -183,6 +188,26 @@ Node.js                  12 repos            ██████░░░░░�
 React Native             4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 Android                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
+
+### Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-6264A7?style=for-the-badge&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0D6EFD?style=for-the-badge&logo=razorpay&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white)
+![ZegoCloud](https://img.shields.io/badge/ZegoCloud-0A66C2?style=for-the-badge&logo=zegocloud&logoColor=white)
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=DilshadAlam98&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DilshadAlam98&theme=tokyonight" alt="GitHub Streak">
+<img src="https://github-profile-trophy.vercel.app/?username=DilshadAlam98&theme=onestar&margin-w=15&row=1" alt="GitHub Trophies">
 
 
 
