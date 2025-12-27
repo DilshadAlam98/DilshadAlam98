@@ -1,12 +1,16 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Dilshad Alam! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,typescript,firebase,android,react,mongodb,postgresql,mysql&perline=6" alt="Tech Icons: Flutter, Dart, Node.js, TypeScript, Firebase, Android, React, MongoDB, PostgreSQL, MySQL">
+</div>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Dilshad%20Alam&fontSize=36&fontAlign=50&animation=fadeIn" alt="Dilshad Alam Banner">
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00c2ff,100:ff4d94&height=80&section=header&text=Senior%20Software%20Engineer%20at%20Bacancy%20Technology&fontSize=22&fontColor=ffffff" alt="Senior Software Engineer at Bacancy Technology">
-</p>
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff4d94,100:00c2ff&height=80&section=header&text=Formerly%20Software%20Engineer%20(Mobile%20Apps)%20at%20NeoSoft%20Technology&fontSize=20&fontColor=ffffff" alt="Formerly Software Engineer (Mobile Apps) at NeoSoft Technology">
-</p>
+
+<p><em><span style="color:#00c2ff; font-weight:600">Senior Software Engineer</span> at <a href="https://www.bacancytechnology.com/">Bacancy Technology</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<p><em><span style="color:#ff4d94; font-weight:600">Formerly Software Engineer (Mobile Apps)</span> at <a href="https://www.neosofttech.com/">NeoSoft Technology</a>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 [//]: # ([![Twitter Follow]&#40;https://img.shields.io/twitter/follow/misteranmol?label=Follow&#41;]&#40;https://twitter.com/intent/follow?screen_name=misteranmol&#41;)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dilshad%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alam-dilshad/)
